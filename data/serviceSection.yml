@@ -1,0 +1,25 @@
+---
+enable: true
+topTitle: Professional Services
+title: Variety of Real Estate Media Services
+subtitle: From real estate photo & video to stunning aerial imagery to floor plans & feature sheets. Give us a call and we will take care of all your needs.
+service:
+- title: Professional Real Estate Photography
+  content: Potential buyers are embarking on a new chapter in their lives and looking 
+    for the perfect setting. Utilizing top-of-the-line equipment, natural lighting, 
+    and the best angles, we create images that show the features and flow of each room and 
+    how it connects to the overall story of the home.
+  image: images/service/ui-ux.svg
+- title: 3D Virtual Tours
+  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat.
+  image: images/service/web.svg
+- title: Real Estate Video
+  content: Real Estate videos allow viewers to travel through a home and imagine themselves living there. They offer a fun and engaging way to tell the story of the home and create a memorable and compelling experience for potential buyers.
+  image: images/service/creative.svg
+- title: Aerial Photography & Video
+  content: Real estate aerial photography and video can add a new point of view to a story that ground-level photographs cannot capture. Potential buyers can clearly view important factors like proximity to lakes, amenities, schools, roads and highways, as well as the general feel of a neighbourhood.
+  image: images/service/branding.svg
+- title: 2D & 3D Floor Plans
+  content: When combined with our photography, our real estate floor plans provide a real sense of the function and flow of a home, adding another dimension to the home’s story.
+  image: images/service/ui-ux.svg

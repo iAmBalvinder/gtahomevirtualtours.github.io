@@ -1,0 +1,70 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "GTA Home Virtual Tours"
+  # Main Menu
+  [[menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "#service"
+    weight = 2
+  [[menu.main]]
+    name = "Portfolio"
+    url = "#portfolio"
+    weight = 3
+#  [[menu.main]]
+#    name = "Pricing"
+#    url = "#pricing"
+#    weight = 4
+  [[menu.main]]
+    name = "About us"
+    url = "#about"
+    weight = 5
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 6
+
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+    name = "About me"
+    url = "about"
+    weight = 1
+  [[menu.sitemap]]
+    name = "Frequently Ask Question"
+    url = "#"
+    weight = 2
+  [[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "#"
+    weight = 3
+  [[menu.sitemap]]
+    name = "Latest Article"
+    url = "#"
+    weight = 4
+
+[params]
+  blogPageURL = "blog"
+  contactLink = "contact"
+  copyright = "All right reserved copyright © gtahomevirtualtours 2020"
+  footerLogo = "images/contact/widget-logo.png"
+  formspreeURL = "YOUR FORMSPREE URL"
+  googleAnalytics = "UA-179102429-1"
+  logo = "images/site-navigation/logo.png"
+
+  [params.address]
+    address = "GTA Home Virtual Tours, Toronto, ON"
+    email = "info@gtahomevirtualtours.com"
+    openingHours = "Open from 9am to 6pm (close at 5pm Sundays)"
+    phone = "+(1) 647 334 3666"
+  [params.map]
+    APIkey = "YOUR GOOGLE MAP API"
+    latitude = "43.789941"
+    longitude = "-79.367866"
+    pinImage = "images/pin.png"
+ 

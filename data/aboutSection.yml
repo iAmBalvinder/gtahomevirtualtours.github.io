@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: Working Area
+title: About us
+subtitle: GTA Virtual Tours are recognized as one of Toronto’s premier Real Estate Virtual Tour providers.
+  No Real Estate listing should be without a Virtual Tour and GTA Virtual Tours has the most experienced and 
+  accomplished photographers & videographers to get you the best images for the best value. 
+  Trust us to present your listing in the best possible light with a Virtual Tour that is sure 
+  to raise the profile of both your listings and your agency.
+title2: We love Photography and Real Estate.
+content: Interactive Real Estate Virtual Tours are an ideal way to promote your property listings. 
+  You can direct interested parties to your official Tour page or link to them on MLS or Real Estate websites. 
+  Our tours can dramatically increase interest in a property and are a tremendous tool for getting new listings. 
+  Imagine being able to show your buyers multiple homes virtually, without ever leaving your office. 
+  The exposure that a property receives during the selling process is crucial. 
+  Today's buyers turn to the Internet first and expect listings to provide them with a visual reference of a property. 
+  This first impression is crucial to piquing a potential home buyers interest.
+button1Name: Hire us
+#button2Name: Download CV
+button1Target: contact
+#button2Target: contact
+image: images/about/header.jpg

@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: Testimonial
+title: What People are Say About us?
+
+testimonial:
+  - name: Waiz Ahmed
+    comment: Really pleased with the services
+    time: Sept 20, 2020
+    star: 5
+  - name: Jagjeet Singh
+    comment: Very Professional and great to deal with.
+    time: Jul 16, 2020
+    star: 5
+  - name: Sunpreet Kaur
+    comment: Best Video and 3d virtual tours in the city
+    time: Apr 15, 2020
+    star: 5
+  - name: Aashish Singh
+    comment: Best in the industry, totally recommended.
+    time: May 15, 2020
+    star: 4

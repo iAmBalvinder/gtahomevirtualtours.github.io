@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: My Skills
+title: Why hire us for your next project?
+subtitle: Potential buyers are embarking on a new chapter in their lives and looking for the 
+  perfect setting. Utilizing top-of-the-line equipment, natural lighting, 
+  and the best angles, we create images that show the features and flow of each room and 
+  how it connects to the overall story of the home.
+
+skill:
+  - title: 3D Virtual Tours
+    percent: 95
+  - title: Real Estate Photography
+    percent: 95
+  - title: Aerial & Videos Services
+    percent: 80
